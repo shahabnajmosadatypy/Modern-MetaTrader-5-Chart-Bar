@@ -6,6 +6,19 @@ Welcome to the **TV Chart Overhaul** indicator! Transform your clunky, outdated 
 
 ---
 
+## 📸 Screenshots
+
+### Chart One
+![Chart One](Chart%20One.png)
+
+### Chart Two
+![Chart Two](Chart%20Two.png)
+
+### Chart Three
+![Chart Three](Chart%20Three.png)
+
+---
+
 ## 🌟 Features
 
 This lightweight utility indicator completely revamps your MT5 interface with zero hassle. Here is what it does:
